@@ -1,0 +1,4 @@
+nltk>=3.8
+jieba>=0.42
+gensim>=4.3
+scikit-learn>=1.3
